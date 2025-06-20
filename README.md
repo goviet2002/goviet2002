@@ -10,7 +10,7 @@ A final-semester bachelor student at JGU Mainz, passionate about all things data
 
 ###
 
-<p align="left">- 👨‍💻 Visit my website: https://goviet2002.github.io<br>- 📊 Portfolio: https://github.com/goviet2002?tab=repositories</p>
+<p align="left">- 👨‍💻 Visit my website: https://goviet2002.github.io<br>- 📊 Portfolio: https://github.com/goviet2002?tab=repositories<br>- 📫 How to reach me: anhviet2002.vna@gmail.com</p>
 
 ###
 
@@ -46,12 +46,10 @@ A final-semester bachelor student at JGU Mainz, passionate about all things data
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/anh-viet-ngo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://kaggle.com/anhvietngo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anhvietngo" height="52" width="40" /></a>
-</div>
+<p align="left">
+<a href="https://linkedin.com/in/anh-viet-ngo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anh-viet-ngo" height="30" width="40" /></a>
+<a href="https://kaggle.com/anhvietngo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anhvietngo" height="30" width="40" /></a>
+</p>
 
 ###
 
