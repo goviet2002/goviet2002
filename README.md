@@ -10,7 +10,7 @@ A final-semester bachelor student at JGU Mainz, passionate about all things data
 
 ###
 
-<p align="left">- 👨‍💻 Visit my website: https://goviet2002.github.io<br>- 📊 Portfolio: https://github.com/goviet2002?tab=repositories<br>- 📫 How to reach me: anhviet2002.vna@gmail.com</p>
+<p align="left">- 👨‍💻 Visit my website: https://anhvietngo.vercel.app<br>- 📊 Portfolio: https://github.com/goviet2002?tab=repositories<br>- 📫 How to reach me: anhviet2002.vna@gmail.com</p>
 
 ###
 
